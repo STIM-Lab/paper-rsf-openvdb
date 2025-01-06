@@ -1,2 +1,2 @@
 # paper-rsf-openvdb
-ISBI 2025: Segmentation of Microvascular Networks Embedded in Gigavoxel 3D Images Using RSF Level Sets with OpenVDB
+This repository contains the source code for the paper "Segmentation of Microvascular Networks Embedded in Gigavoxel 3D Images Using RSF Level Sets with OpenVDB" published in the 2025 IEEE International Symposium for Biomedical Imaging (ISBI).
